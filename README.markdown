@@ -2,9 +2,10 @@
 >
 > 如您发现有翻译错误，恳请提交github PR: <https://github.com/AlphaWang/alpha-dapper-translation>
 
-- 原文：https://ai.google/research/pubs/pub36356
 
-- 译文原始地址：<http://alphawang.com/blog/2019/03/dapper-a-large-scale-distributed-systems-tracing-infrastructure/>
+
+> - 原文：https://ai.google/research/pubs/pub36356
+> - 译文原始地址：<http://alphawang.com/blog/2019/03/dapper-a-large-scale-distributed-systems-tracing-infrastructure/>
 
 
 
